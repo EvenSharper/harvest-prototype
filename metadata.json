@@ -1,0 +1,5 @@
+{
+  "name": "harvest-prototype",
+  "description": "A 2D farming RPG engine with crop cycles, inventory, day/night system, and an AI-powered almanac.",
+  "requestFramePermissions": []
+}
